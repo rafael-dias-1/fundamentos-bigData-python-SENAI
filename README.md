@@ -17,6 +17,6 @@ O projeto ainda está em desenvolvimento e as próximas aulas serão nas seguint
 - [ ] Aula 11 - 25/09/2023
 - [x] Aula 12 - 27/09/2023
 - [x] Aula 13 - 29/09/2023
-- [ ] Aula 14 - 02/10/2023
+- [x] Aula 14 - 02/10/2023
 - [ ] Aula 15 - 04/10/2023
 - [ ] Aula 16 - 06/10/2023
